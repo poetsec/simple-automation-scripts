@@ -6,3 +6,6 @@ This script returns the user's IP address. Best used as an alias for example, `a
 
 ## clear-downloads-macos
 Shell script for automating clearing the downloads folder on macOS. 
+
+## terminal-tools-setup-macos
+This script installs Homebrew and Oh My Zsh.
